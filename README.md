@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I learn OmniAuth Twitter gem from gorails episode.
+Here is the video: [Twitter Sign In with Rails and OmniAuth](https://youtu.be/vFiblY5KUZE)
 
 Things you may want to cover:
 
-* Ruby version
+* gem 'omniauth-twitter'
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* gem 'twitter'
